@@ -7,7 +7,6 @@ import com.example.springbootdozeexamples.domain.StudentDomain;
 import com.example.springbootdozeexamples.domain.vo.AddressVo;
 import com.example.springbootdozeexamples.domain.vo.FieldTypeVo;
 import com.example.springbootdozeexamples.domain.vo.StudentDifferentVo;
-import com.example.springbootdozeexamples.domain.vo.StudentVo;
 import org.dozer.DozerBeanMapperBuilder;
 import org.dozer.Mapper;
 import org.dozer.loader.api.BeanMappingBuilder;
